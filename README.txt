@@ -1,4 +1,4 @@
-=== Prune Users ===
+=== unFocus Prune Users ===
 Contributors: Touvan, WraithKenny
 Donate link: http://wordpressfoundation.org/donate/
 Tags: admin, users, prune
